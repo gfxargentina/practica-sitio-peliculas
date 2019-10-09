@@ -1,0 +1,48 @@
+
+
+.bg{
+    background-color: rgb(35, 33, 45);
+
+}
+
+.navbar{
+    position:absolute;
+    width:100%;
+    z-index:10;
+    max-width:100%;
+}
+
+.txtcolor {
+    color: #00BAD2;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 25%;
+    text-shadow: 1px 1px black;
+    
+}
+
+p{
+    font-size: 2vw;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
+.txttitulo{
+    font-size: 5vw;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
